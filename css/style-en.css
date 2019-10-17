@@ -1,0 +1,11 @@
+@font-face {
+    font-family: elmessiri-regular;
+    src: url(../fonts/elmessiri-regular.otf);
+  }
+  body {
+    font-family: elmessiri-regular;
+    background: #fafafa;
+  }
+  a:hover{
+      text-decoration: none;
+}
