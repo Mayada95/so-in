@@ -1,4 +1,4 @@
 # so-in
 
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/Mayada95/so-in/tree/master/screenShoots/3.png)
